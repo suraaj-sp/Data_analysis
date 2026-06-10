@@ -1,4 +1,4 @@
-# Personal Data Analysis Practice
+#  Data Analysis
 
 This is my personal practice folder for learning `pandas` and working with car sales data.
 
