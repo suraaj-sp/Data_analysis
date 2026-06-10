@@ -1,25 +1,9 @@
- # Data_analysis
+ # Data Analysis
 
 This project uses the Python `pandas` library to load, clean, and analyze car sales data.
 
-'''
-    .-'-.         .-'-.
-   /       \     /       \
-  |   _     |___|     _   |
-   \ (_)   /     \   (_) /
-   /                     \
-  |    .-.         .-.    |
-  |   ( @ )       ( @ )   |
-  |    '-'    _    '-'    |
-  |          (_)          |
-   \                     /
-    '.                 .'
-      '._           _.'
-         '---------'
-'''
 
-
-## About pandas
+## ʕ·ᴥ·ʔ 
 
 - `pandas` is a Python library for data manipulation and analysis.
 - It provides `DataFrame` and `Series` objects for working with structured tabular data.
@@ -39,3 +23,4 @@ print("Average price:", df["price"].mean())
 
 - `car-sales.csv` — original car sales dataset
 - `Exported-car-sales.csv` — exported or processed dataset
+
