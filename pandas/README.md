@@ -1,5 +1,7 @@
 # Data Analysis
 
+# ʕ·ᴥ·ʔ
+
 This project uses the Python `pandas` library to load, clean, and analyze car sales data.
 
 ## Project structure
