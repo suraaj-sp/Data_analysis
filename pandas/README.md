@@ -1,36 +1,32 @@
-# Data Analysis
+# Personal Pandas Practice
 
-# ʕ·ᴥ·ʔ
+This folder is a personal practice workspace for learning `pandas` and working with car sales data.
 
-This project uses the Python `pandas` library to load, clean, and analyze car sales data.
-
-## Project structure
+## Practice structure
 
 ```
-├── data/
-│   ├── car-sales.csv              # Raw, untouched source dataset
-│   └── Exported-car-sales.csv     # Cleaned, processed output dataset
-├── analysis.py                    # Main execution script for the pipeline
-├── README.md                      # Project documentation (this file)
-└── requirements.txt               # Project dependencies
+├── car-sales.csv              # Raw, untouched source dataset
+├── Exported-car-sales.csv     # Cleaned, processed output dataset
+├── pandas-01.ipynb            # Notebook for practice and exploration
+└── README.md                  # This practice documentation file
 ```
 
 ## Usage
 
-Install dependencies:
+Install dependencies from the project root:
 
 ```bash
-pip install -r requirements.txt
+pip install -r ../requirements.txt
 ```
 
-Run the analysis:
+Run the example analysis from the project root:
 
 ```bash
-python analysis.py
+python ../analysis.py
 ```
 
 ## Notes
 
-- `data/car-sales.csv` is the original car sales dataset.
-- `data/Exported-car-sales.csv` is the processed/exported dataset.
-- `analysis.py` reads and previews the raw dataset.
+- This folder is for personal practice and experimentation with `pandas`.
+- The main dataset files live under `data/` in the project root.
+- Use `pandas-01.ipynb` for interactive analysis.
