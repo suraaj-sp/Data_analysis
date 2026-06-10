@@ -5,28 +5,31 @@ This folder is a personal practice workspace for learning `pandas` and working w
 ## Practice structure
 
 ```
-├── car-sales.csv              # Raw, untouched source dataset
-├── Exported-car-sales.csv     # Cleaned, processed output dataset
-├── pandas-01.ipynb            # Notebook for practice and exploration
-└── README.md                  # This practice documentation file
+├── data/
+│   ├── car-sales.csv              # Raw, untouched source dataset
+│   └── Exported-car-sales.csv     # Cleaned, processed output dataset
+├── analysis.py                    # Example script for practice
+├── pandas-01.ipynb                # Notebook for practice and exploration
+├── requirements.txt               # Practice dependencies
+└── README.md                      # This practice documentation file
 ```
 
 ## Usage
 
-Install dependencies from the project root:
+Install dependencies:
 
 ```bash
-pip install -r ../requirements.txt
+pip install -r requirements.txt
 ```
 
-Run the example analysis from the project root:
+Run the practice analysis:
 
 ```bash
-python ../analysis.py
+python analysis.py
 ```
 
 ## Notes
 
-- This folder is for personal practice and experimentation with `pandas`.
-- The main dataset files live under `data/` in the project root.
-- Use `pandas-01.ipynb` for interactive analysis.
+- This is a local practice folder for experimenting with `pandas`.
+- `data/car-sales.csv` is the raw dataset and `data/Exported-car-sales.csv` is the processed dataset.
+- Open `pandas-01.ipynb` for interactive notebook work.
