@@ -2,7 +2,7 @@
 
 This project uses the Python `pandas` library to load, clean, and analyze car sales data.
 
-
+'''
     .-'-.         .-'-.
    /       \     /       \
   |   _     |___|     _   |
@@ -16,7 +16,7 @@ This project uses the Python `pandas` library to load, clean, and analyze car sa
     '.                 .'
       '._           _.'
          '---------'
-
+'''
 
 
 ## About pandas
