@@ -1,12 +1,12 @@
-# Data Analysis Project
+# Personal Data Analysis Practice
 
-This project is a personal data analysis practice workspace built with Python and pandas.
+This is my personal practice folder for learning `pandas` and working with car sales data.
 
-## Project overview
+## Folder overview
 
-- `pandas/` contains a personal practice folder with notebooks and example scripts.
+- `pandas/` contains my practice workspace with notebooks and example scripts.
 - `pandas/data/` stores the raw and exported car sales datasets.
-- `pandas/analysis.py` is a practice script to load and preview the dataset.
+- `pandas/analysis.py` is a practice script for loading and previewing the dataset.
 - `pandas/pandas-01.ipynb` is an interactive notebook for exploration.
 - `pandas/README.md` documents the practice folder structure and usage.
 
@@ -22,5 +22,5 @@ python analysis.py
 
 ## Notes
 
-- The focus is on exploring and practicing pandas workflows.
+- This folder is for personal learning and experimentation.
 - Use the notebook for interactive data analysis and visualization.
